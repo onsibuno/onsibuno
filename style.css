@@ -61,13 +61,13 @@ a{
 #sightseeing{
     position: absolute;
     top: 50%;
-    left: 30%;
+    left: 10%;
 }
 
 #nonsense{
     position: absolute;
     top: 28%;
-    left: 50%;
+    left: 40%;
 }
 
 #tastefulness{
@@ -78,7 +78,7 @@ a{
 
 #artisanship{
     position: absolute;
-    right: 10%;
+    right: 20%;
     bottom: 75%;
 }
 
