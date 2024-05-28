@@ -1,0 +1,89 @@
+body{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    overflow: hidden;
+    background-color: rgb(253, 37, 37);
+}
+
+img{
+    /* border-bottom: 2px solid black; */
+    width: 1516px;
+    height: auto;
+    z-index: 0;
+    mix-blend-mode: darken;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+div{
+    align-self: center;
+    width: 100%;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.7em;
+    font-weight: bolder;
+    /* -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black; */
+    padding: 20px 30px 0px 30px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 2px;
+    border-style: solid;
+    border-color: transparent;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 50%, rgba(255,255,255,0) 100%);
+}
+
+#melodies{
+    position: absolute;
+    bottom: 20%;
+    left: 20%;
+    /* transform: translate(-50%, -50%); */
+}
+
+#sightseeing{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+
+#nonsense{
+    position: absolute;
+    top: 28%;
+    left: 50%;
+}
+
+#tastefulness{
+    position: absolute;
+    right: 15%;
+    bottom: 20%;
+}
+
+#artisanship{
+    position: absolute;
+    right: 10%;
+    bottom: 75%;
+}
+
+a:hover{
+    
+    border-image-source: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 25%, rgba(0,0,0,1) 75%, rgba(255,255,255,0) 100%);
+
+}
