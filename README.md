@@ -5,7 +5,7 @@ I'm onsibuno, he/him
 I'm a webdev student, formerly art student, and photography student.
 I do music, photography, pixel art, and now some web development.
 
-This is a sort of online business card/links to stuff i do that made it online.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onsibuno&bg_color=282a36&border_color=21222c&title_color=bd93f9&text_color=f8f8f2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **onsibuno/onsibuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
